@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Users\carro\Desktop\CG\main.cpp(111,5): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\CG\main.cpp(230,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+D:\Users\carro\Desktop\CG\main.cpp(312,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Primer_Ejemplo_SDL.vcxproj -> D:\Users\carro\Desktop\Proyectos visual\SDL\Primer_Ejemplo_SDL\Debug\Primer_Ejemplo_SDL.exe
